@@ -4,10 +4,10 @@
 /**
  * main - print exact quote
  *
- * Case - program that prints exact quote followed by a new line
+ * Case: program that prints exact quote followed by a new line
  * to the standard error
  *
- * Return - Always 1 (Success)
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
