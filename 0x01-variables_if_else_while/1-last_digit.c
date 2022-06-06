@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <stlib.h>
+#include <stdlib.h>
 
 /**
  * main - print the last digit of the number stored 
