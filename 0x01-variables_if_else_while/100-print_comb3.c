@@ -10,6 +10,7 @@
 int main(void)
 {
 	int a, b;
+
 	a = 48;
 	b = 48;
 
@@ -28,7 +29,6 @@ int main(void)
 			}
 			b++;
 		}
-		
 		a++;
 	}
 
