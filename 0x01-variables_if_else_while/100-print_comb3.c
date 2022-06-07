@@ -30,7 +30,7 @@ int main(void)
 			b++;
 		}
 		
-		a++
+		a++;
 	}
 
 	putchar(10);
