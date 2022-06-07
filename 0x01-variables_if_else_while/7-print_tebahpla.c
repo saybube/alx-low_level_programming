@@ -12,7 +12,7 @@ int main(void)
 {
 	int alph;
 
-	for (alph = 122; alph > 96, alph--)
+	for (alph = 122; alph > 96; alph--)
 	{
 		putchar(alph);
 	}
