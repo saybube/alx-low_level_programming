@@ -14,10 +14,10 @@ int main(void)
 	a = 48;
 	b = 48;
 
-	for (a = 48; a < 58; a++)
+	while (a < 58)
 	{
 		b = a + 1;
-		for (b = 49; b < 58; b++)
+		while (b < 58)
 		{
 			putchar(a);
 			putchar(b);
@@ -27,7 +27,10 @@ int main(void)
 				putchar(44);
 				putchar(32);
 			}
+			b++;
 		}
+		
+		a++
 	}
 
 	putchar(10);
