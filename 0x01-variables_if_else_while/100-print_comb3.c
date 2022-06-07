@@ -10,7 +10,6 @@
 int main(void)
 {
 	int a, b;
-	
 	a = 48;
 	b = 48;
 
