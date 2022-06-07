@@ -9,14 +9,13 @@
  */
 int main(void)
 {
-	int i = 97;
+	char = alph;
 
-	while (i < 123)
+	for (alph = 'a'; alph <= 'z'; alph++)
 	{
-		putchar(1);
-		i++;
+		putchar(alph);
 	}
-	putchar(10);
+	putchar('\n');
 
 	return (0);
 }
