@@ -10,8 +10,11 @@
 int main(void)
 {
 	int a, b;
+	
+	a = 48;
+	b = 48;
 
-	for (a = 48; b = 48; a < 58; a++)
+	for (a < 58; a++)
 	{
 		b = a + 1;
 		for (b < 58; b++)
