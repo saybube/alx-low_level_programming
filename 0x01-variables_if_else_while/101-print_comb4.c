@@ -7,7 +7,7 @@
 int main(void)
 {
 	int a, b, c;
-	
+
 	a = 48;
 	b = 48;
 	c = 48;
@@ -17,7 +17,7 @@ int main(void)
 		b = b + 1;
 		while (b < 58)
 		{
-			c = c +1;
+			c = c + 1;
 			while (c < 58)
 			{
 				putchar(a);
