@@ -1,6 +1,6 @@
 #include "main.h"
-/** jack_bauer - prints every minute of the day of Jack Bauer
- *
+/** 
+ * jack_bauer - prints every minute of the day of Jack Bauer
  * Return: void
  */
 void jack_bauer(void)
@@ -24,7 +24,7 @@ void jack_bauer(void)
 			ms = 0;
 			while (ms <= 5)
 			{
-				mb =0;
+				mb = 0;
 				while (mb <= 9)
 				{
 					_putchar('0' + hs);
