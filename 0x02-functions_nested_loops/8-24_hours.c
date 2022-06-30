@@ -19,7 +19,7 @@ void jack_bauer(void)
 			i = 3;
 		}
 		hb = 0;
-		while (hb <= a)
+		while (hb <= i)
 		{
 			ms = 0;
 			while (ms <= 5)
@@ -39,6 +39,6 @@ void jack_bauer(void)
 			}
 			hb++;
 		}
-		hs++
+		hs++;
 	}
 }
