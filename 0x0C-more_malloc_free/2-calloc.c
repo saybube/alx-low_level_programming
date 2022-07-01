@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include "main.h"
+
 /**
  * _calloc - allocates memory for an array
  * @nmemb: describes the number of members
  * @size: describes the number of bytes
  * Return: pointer to allocated memory and same as the string
  */
+
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	void *arr;
